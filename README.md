@@ -32,10 +32,3 @@
 - Modify and contribute as you master the content.  
 
 ---
-
-### 🚧 In Progress  
-- More sections on HTML best practices and advanced form handling are coming!  
-- CSS integration to enhance the look and feel is in the pipeline.  
-
-Feel free to explore and build! 🔥  
-
