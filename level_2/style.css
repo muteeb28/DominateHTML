@@ -4,3 +4,18 @@ img {
 a{
     text-decoration: none;
 }
+
+#red{
+    color: red;
+}
+
+#blue{
+    color: blue;
+}
+
+.savy{
+    background-color: blanchedalmond;
+}
+#grey{
+    background-color: grey;
+}
