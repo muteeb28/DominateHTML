@@ -40,4 +40,33 @@
 
 ---  
 
+## 📋 HTML Forms & Inputs  
+
+### 🧩 Form Basics  
+- **Form Tag** – Wraps all form elements.  
+- **Label** – `<label for="id">` links to input fields for accessibility.  
+- **Input Types** – Variety of user inputs, from text to files.  
+
+---  
+
+### 🔡 Input Types Covered  
+
+- **Text Input** – `type="text"` for name, simple text entries.  
+- **Email** – `type="email"` for email validation.  
+- **Password** – `type="password"` for hidden text.  
+- **Date Picker** – `type="date"` for date selection.  
+- **Radio Buttons** – `type="radio"` for selecting one option (gender).  
+- **Checkbox** – `type="checkbox"` for yes/no type responses.  
+- **Color Picker** – `type="color"` for selecting colors.  
+- **Range Slider** – `type="range"` for sliding values.  
+- **File Upload** – `type="file"` for uploading documents or images.  
+
+---  
+
+### ⚡ Form Actions  
+
+- **Submit Button** – `type="submit"` sends form data.  
+- **Placeholder Text** – Guides users within input fields (e.g., "full name").  
+
+
 ✨ Keep Practicing and Building!  
