@@ -1,0 +1,60 @@
+<!-- 
+ HTML5 introduces semantic elements that enhance the structure and readability of web pages.
+ 
+|`<header>` first section maybe 
+|`<nav>` navigation bar
+    <main>  full website content
+|`<section>` pages of website
+|`<article>` website sub elements 
+|`<aside>` fixed elements 
+|`<footer>` footer content
+|`<audio>` audio support
+|`<video>` video support
+
+ -->
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>semantics</title>
+    </head>
+    <body>
+       <main>
+        <nav>
+            <h3>Combi</h3>
+            <div class="links">
+             <a href="#">Home</a>
+             <a href="#">About</a>
+             <a href="#">Pricing</a>
+             <a href="#">Contact Us</a>
+            </div> 
+        </nav>
+        <header>
+           <h2>Hello, world!</h2>
+            <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+           <button>learn more</button> 
+        </header>
+        <section>
+            <article>
+                <audio src="music.mp3" controls></audio>
+                <h3>Exciting News</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, fuga vero! Nobis vitae distinctio ad architecto quisquam. Temporibus, recusandae labore sed accusamus tenetur dolore, necessitatibus dolor laborum nesciunt eum obcaecati dolorum nemo voluptas rerum!</p>
+            </article>
+        </section>
+        
+        <section>
+            <video src="vid.mp4" autoplay muted loop ></video>
+        </section>
+        <section class="sec" ></section>
+        <aside>
+            Follow us
+        </aside>
+        <footer>
+            copyrighted content &copy; 2023
+        </footer>
+       </main>
+     
+    </body>
+    </html>
